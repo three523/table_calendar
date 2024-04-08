@@ -1,3 +1,12 @@
+## [3.1.1]
+
+* Added cell text localization based on current locale
+
+## [3.1.0]
+
+* Upgraded to Dart 3
+* Updated intl version to 0.19.0
+
 ## [3.0.9]
 
 * Updated intl version to 0.18.0
